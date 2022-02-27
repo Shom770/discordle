@@ -1,2 +1,2 @@
-# discordle
-Wordle with the aspect of Discord, being playing with your friends!
+# Studycord
+Create study guides for upcoming quizzes, tests, etc.
